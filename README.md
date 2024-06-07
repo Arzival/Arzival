@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Me gusta mucho la programación, puedo trabajar en equipo y siempre estoy dispuesto a aprender nuevas tecnologías para poder desempeñar mi trabajo de la mejor manera.<br><br>---> Actualmente estoy trabajando en varios proyectos personales.</h3>
+<h3 align="left">Me gusta mucho la programación, puedo trabajar en equipo y siempre estoy dispuesto a aprender nuevas tecnologías para poder desempeñar mi trabajo de la mejor manera.<br><br>---> Actualmente estoy trabajando como Desarrollador FullStack y Programador Analista en una empresa, en mis ratos libres trabajo varios proyectos personales y estudio nuevos temas de programación.</h3>
 
 ###
 
