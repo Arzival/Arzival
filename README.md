@@ -36,8 +36,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Arzival/Arzival/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif"  />
+</div>
 
 ###
