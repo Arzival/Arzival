@@ -6,7 +6,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/7a/8c/4b/7a8c4b5b617fa11a1e9a61190f427546.jpg"  />
 
 ###
 
